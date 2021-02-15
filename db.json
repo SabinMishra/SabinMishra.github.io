@@ -1,0 +1,32 @@
+{
+  "corona": [
+    {
+      "time": "22 : 20 : 39",
+      "confirmed": 8638846,
+      "dead": 78616,
+      "recovered": 223749,
+      "id": 7
+    },
+    {
+      "time": "22 : 23 : 3",
+      "confirmed": 8638846,
+      "dead": 78616,
+      "recovered": 223749,
+      "id": 8
+    },
+    {
+      "time": "4 : 31 : 50",
+      "confirmed": 8918345,
+      "dead": 80040,
+      "recovered": 238080,
+      "id": 9
+    },
+    {
+      "time": "4 : 32 : 2",
+      "confirmed": 8918345,
+      "dead": 80040,
+      "recovered": 238080,
+      "id": 10
+    }
+  ]
+}
